@@ -1,0 +1,43 @@
+U.S. Passport Number - 305108183
+
+
+Test data
+From Wikipedia, the free encyclopedia
+Jump to navigationJump to search
+Test data is data which has been specifically identified for use in tests, typically of a computer program.
+
+Some data may be used in a confirmatory way, typically to verify that a given set of input to a given function produces some expected result. Other data may be used in order to challenge the ability of the program to respond to unusual, extreme, exceptional, or unexpected input.
+
+Test data may be produced in a focused or systematic way (as is typically the case in domain testing), or by using other, less-focused approaches (as is typically the case in high-volume randomized automated tests). Test data may be produced by the tester, or by a program or function that aids the tester. Test data may be recorded for re-use, or used once and then forgotten. Test data can be created 1) manually, 2) by using data generation tools or 3) it can be retrieved from existing production environment. The data set can consist of synthetic (fake) data, but preferably it consists of representative (real) data.[1]
+
+
+Contents
+1	Limitations
+2	Domain testing
+3	See also
+4	Popular Open Source Data Generators
+5	References
+Limitations
+Due to privacy rules and regulations all over the world like GDPR, PCI and HIPAA it is not allowed to use privacy sensitive personal data for testing.[2] But anonymized (and preferably subsetted) production data may be used as representative data for test and development.[3] You may also choose to generate synthetic data but this comes with its own limitations. It is not always possible to produce enough fake or synthetic data for testing. The amount of data to be tested is determined or limited by considerations such as time, cost and quality. Time to produce, cost to produce and quality of the test data, and efficiency.
+
+Domain testing
+Domain testing is a family of test techniques that focus on the test data. This might include identifying common or critical inputs, representatives of a particular equivalence class model, values that might appear at the boundaries between one equivalence class and another, outrageous values that should be rejected by the program, combinations of inputs, or inputs that might drive the product towards a particular set of outputs.
+
+See also
+Software testing
+Test data generation
+Unit test
+Test plan
+Test suite
+Scenario test
+Session-based test
+Popular Open Source Data Generators
+The DataGenerator
+References
+ "What is test data and how is it created?". DATPROF. 2019-06-26. Retrieved 2020-04-29.
+ "Get GDPR, PCI and HIPAA compliant". DATPROF. 2020-03-03. Retrieved 2020-07-09.
+ "Using production data for testing". DATPROF. 2019-10-17. Retrieved 2020-07-09.
+
+This article includes a list of general references, but it remains largely unverified because it lacks sufficient corresponding inline citations. Please help to improve this article by introducing more precise citations. (August 2009) (Learn how and when to remove this template message)
+"The evaluation of program-based software test data adequacy criteria", E. J. Weyuker, Communications of the ACM (abstract and references)
+"What is test data and how is it created?". DATPROF. 2019-06-26. Retrieved 2020-04-29.
